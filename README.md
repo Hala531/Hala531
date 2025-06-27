@@ -32,7 +32,7 @@ I'm <strong>Halima<strong> LABHALLA, a junior data analyst based in <strong>Moro
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
